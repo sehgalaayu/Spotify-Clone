@@ -29,4 +29,4 @@ No JavaScript, libraries, or frameworks were used — just pure HTML and CSS!
    
 ```bash
 git clone https://github.com/sehgalaayu/Spotify-clone.git
-cd spotify-clone
+cd Spotify-clone
