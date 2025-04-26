@@ -28,5 +28,5 @@ No JavaScript, libraries, or frameworks were used — just pure HTML and CSS!
 2. Open the `index.html` file in your browser.
    
 ```bash
-git clone https://github.com/sehgalaayu/spotify-clone.git
+git clone https://github.com/sehgalaayu/Spotify-clone.git
 cd spotify-clone
