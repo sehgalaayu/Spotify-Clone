@@ -14,12 +14,6 @@ No JavaScript, libraries, or frameworks were used — just pure HTML and CSS!
 
 ---
 
-## 📸 Preview
-
-![Spotify Clone Preview](link-to-your-screenshot)
-
----
-
 ## 📚 What I Learned
 - Structuring a complete web page using semantic HTML.
 - Styling layouts using Flexbox and Grid.
@@ -34,5 +28,5 @@ No JavaScript, libraries, or frameworks were used — just pure HTML and CSS!
 2. Open the `index.html` file in your browser.
    
 ```bash
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/sehgalaayu/spotify-clone.git
 cd spotify-clone
