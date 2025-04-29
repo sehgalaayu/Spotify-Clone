@@ -10,8 +10,7 @@ I created this project to practice and apply everything I have learned so far ab
 - **HTML5**: for building the structure of the webpage.
 - **CSS3**: for styling and making the design responsive.
   
-No JavaScript, libraries, or frameworks were used — just pure HTML and CSS
-
+No JavaScript, libraries, or frameworks were used — just pure HTML and CSS!
 
 ---
 
